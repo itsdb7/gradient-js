@@ -1,1 +1,1 @@
-# gradient-js
+Background-gradient a Js library
