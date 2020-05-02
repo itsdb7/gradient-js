@@ -1,3 +1,7 @@
+
+var _ = require('lodash');
+const arr = [1,2,3,4,5,6,8]
+console.log("withiut", _.without(arr, 1));
 var color1 = document.getElementById("color1")
 var color2 = document.getElementById("color2");
 var body = document.getElementById("body");
